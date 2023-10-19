@@ -9,7 +9,7 @@ button { width: 120px; padding: 10px; display: block; margin: 20px auto; border:
 #dataurl { display: block; height: 100px; width: 320px; margin: 10px auto; resize: none; outline: none; border: 1px solid #111111; padding: 5px; font-size: 13px; box-sizing: border-box;}
 </style></head>
 <body>
-<button id="start-camera">Start Camera</button><video id="video" width="320" height="240" autoplay></video><button id="click-photo">Click Photo</button><div id="dataurl-container"> <canvas id="canvas" width="320" height="240"></canvas> <div id="dataurl-header">Image Data URL</div> <textarea id="dataurl" readonly></textarea></div>
+<button id="start-camera">Start Camera</button><video id="video" width="320" height="240" autoplay></video><button id="click-photo">Click Photo</button><div id="dataurl-container"> <canvas id="canvas" width="240" height="320"></canvas> <div id="dataurl-header">Image Data URL</div> <textarea id="dataurl" readonly></textarea></div>
 <script>
 let camera_button = document.querySelector("#start-camera");let video = document.querySelector("#video");let click_button = document.querySelector("#click-photo");let canvas = document.querySelector("#canvas");let dataurl = document.querySelector("#dataurl");let dataurl_container = document.querySelector("#dataurl-container");
 camera_button.addEventListener('click', async function() { 	let stream = null;
