@@ -12,11 +12,19 @@
         display:inline;
         padding:2pt;
     }
+	body {
+  background-image: url('bg.gif');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+	background-origin: content-box;
+	background-size: cover;
+}
 </style>
 </head>
-<body style="background:#071777; color:#effedd;">
+<body style="color:#effedd;">
     <div style="font-family: 'Inconsolata', cursive; font-size:10pt;">
-        <h1 style="background:white; color:black;">Lee</h1><h1 style="background:black; color:white; padding-right:4pt;">Moya</h1><h1 style="color:white;"> - droga</h1>
+        <h1 style="background:white; color:black; padding-left:5pt; border-bottom:5pt solid black;">Lee</h1><h1 style="background:black; color:white; padding-right:10pt; border-top:5pt solid white;">Moya</h1><h1 style="color:white;"> - droga</h1>
         <br>
         <br>
         Istnieją 2 stopnie wtajemniczenia drogi LeeMoya:
