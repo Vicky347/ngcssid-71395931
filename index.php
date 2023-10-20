@@ -9,24 +9,21 @@
 </head>
 <body style="background:black;">
     <div style="font-family: 'Inconsolata', cursive; font-size:27pt; color:white;">
-        
-        <img src="index.jpeg" alt="In case you don't see the picture, please remember I lve you." align="left" style="margin:10px; width:50%;">
-        Tuż obok rosło drzewo w którego konarach skryłem się ja.
+        <h1>LeeMoya - droga</h1>
+        Istnieją 2 stopnie wtajemniczenia drogi LeeMoya:
         <br>
-        To byłem ja, mały wręcz nie wielki, zielony liść okiełznany światłem Słońca aby dostarczać energii memu chlebodawcy - drzewu.
+        <ul>
+            <li>biały</li>
+            <li>czarny</li>
+        </ul>
         <br>
-        Lecz przyszła jesień. Pożółkłem i poczerwieniałem. Spadłem.
+        Na początku drogi otrzymujemy stopień biały i rozpoczynamy edukację szkoły karate tradycyjnego.
         <br>
-        Zawiał wiatr, który poniósł mnie hen daleko od drzewa. Tam upadłem, zmokłem i zgniłem.
+        Filozofia LeeMoya opiera się na 2 elementowej akcji defensywno-ofensywnej: blokujemy cios napastnika i zadajemy cios kończący.
+        <br>
+        Gdy kadet szkoły LeeMoya opracuje własną kombinację ciosów, otrzymuje poziom czarny (DAN).
         <hr>
-        Na początku była kawa.
-        <br>
-        <br>
-        Sięgnąłem po filiżankę i zasiorpnąłem łyk gorącego napoju. Przeszedł mnie przyjemny dreszcz.
-        <br>
-        Choć nie było nikogo z kim mógłbym dzielić smak kawy, upuściłem filiżankę. Nie potłukła się a na dywanie rozpanoszyła się czarno-beżowa, mokra plama.
-        <br>
-        "Przecudowna" - pomyślałem. Ustawiłem aparat na statywie i załączyłem interwał zdjęciowy co 1 minutę. Tak uwieczniłem proces stygnięcia plamy aż do jej wyschnięcia.
+        
     </div>
     <!--
     <iframe src="photo.html?x2" width="320" height="640"></iframe>
