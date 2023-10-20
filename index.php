@@ -8,7 +8,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Yuji+Hentaigana+Akari&display=swap" rel="stylesheet">
 </head>
 <body style="background:black;">
-    <div style="font-family: 'Inconsolata', cursive; font-size:27pt; color:white;">
+    <div style="font-family: 'Inconsolata', cursive; font-size:17pt; color:white;">
         <h1>LeeMoya - droga</h1>
         Istnieją 2 stopnie wtajemniczenia drogi LeeMoya:
         <br>
