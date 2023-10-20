@@ -3,12 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <title>Na początku była miłość.</title>
-    <style>
-  @import url('https://fonts.googleapis.com/css2?family=Yuji+Hentaigana+Akari&display=swap');
-</style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inconsolata&family=Yuji+Hentaigana+Akari&display=swap" rel="stylesheet">
 </head>
 <body style="background:black;">
-    <div style="font-family: 'Yuji Hentaigana Akari', cursive; font-size:27pt; color:white;">
+    <div style="font-family: 'Inconsolata', cursive; font-size:27pt; color:white;">
         
         <img src="index.jpeg" alt="In case you don't see the picture, please remember I lve you." align="left" style="margin:10px; width:50%;">
         Tuż obok rosło drzewo w którego konarach skryłem się ja.
