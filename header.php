@@ -11,7 +11,7 @@
 		</a>
 	</td>
 	<td aligncenter>
-		<a href="login.php" if="login">
+		<a href="login.php" id="login">
 		Logowanie/Rejestracja
 		</a>
 	</td>
