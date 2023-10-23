@@ -6,22 +6,22 @@
 	<td align=right>
 	 <table style="display:block; border-spacing:8px; height:87px; display:inline; float:right; align:right;">
 	<tr><td style="width:60%;" align=center>
-		<a href="info.php">
+		<a href="info.php" id="info">
 		Informacje
 		</a>
 	</td>
 	<td aligncenter>
-		<a href="login.php">
+		<a href="login.php" if="login">
 		Logowanie/Rejestracja
 		</a>
 	</td>
 	</tr>
 	<tr><td align=center>
-		<a href="cennik.php">
+		<a href="cennik.php" id="cennik">
 		Cennik
 		</a>
 	<td align=center>
-		<a href="portfolio/portfolio.html">
+		<a href="portfolio/portfolio.html" id="cv">
 		Portfolio
 	</table>
 </table>
