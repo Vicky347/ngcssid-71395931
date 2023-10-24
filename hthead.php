@@ -39,7 +39,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fcfcff",endCo
 		padding-right:10px;
 			
 	}
-	table {
+	td {
 	    font-size:25pt;
 	}
 	div {
