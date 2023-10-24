@@ -38,11 +38,11 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fcfcff",endCo
 		padding-right:10px;
 			
 	}
-	td {
-	    font-size:1.3em;
+	table {
+	    font-size:20pt;
 	}
 	div {
-	    font-size:17pt;
+	    
 	}
 </style>
 </head>
