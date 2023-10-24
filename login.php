@@ -12,9 +12,9 @@
         <form method="post" action="login.php?dologin">
             <table>
                 <tr>
-            <td>Twój adres e-mail: <td><input name="user">
+            <td><div>Twój adres e-mail: </div><td><input name="user">
             <tr>
-            <td>Hasło: <td><input type="password" name="pass">
+            <td><div>Hasło: </div><td><input type="password" name="pass">
             <tr>
             <td colspan=2><input type="submit" value="zaloguj">
             </table>
