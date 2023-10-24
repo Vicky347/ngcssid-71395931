@@ -40,7 +40,7 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fcfcff",endCo
 			
 	}
 	td {
-	    font-size:25pt;
+	    font-size:23pt;
 	}
 	div {
 	    
