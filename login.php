@@ -20,5 +20,7 @@
             </table>
         </form>
         <br>
+        <div>
         Nie masz konta? 
         <a href="reg.php" target="_new">Zarejestruj się</a>
+        </div>
