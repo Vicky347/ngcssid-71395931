@@ -5,7 +5,7 @@
    <?php
    include("header.php");
    ?>
-        <div style="font-family: 'Inconsolata', cursive; background:rgba(0,0,0, 0.7); padding:2em; margin-top:97px; font-size:10pt;">
+        <div style="font-family: 'Inconsolata', cursive; background:rgba(0,0,0, 0.7); padding:2em; margin-top:97px; font-size:9pt;">
             
 	<b>-- Droga --</b>
 	<br>
