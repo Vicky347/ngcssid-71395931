@@ -41,5 +41,8 @@ filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fcfcff",endCo
 	td {
 	    font-size:1.3em;
 	}
+	div {
+	    font-size:10pt;
+	}
 </style>
 </head>
