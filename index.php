@@ -5,8 +5,8 @@
    <?php
    include("header.php");
    ?>
-        <table style="font-family: 'Inconsolata', cursive; background:rgba(0,0,0, 0.7); padding:2em; margin-top:97px;">
-            <tr><td>
+        <div style="font-family: 'Inconsolata', cursive; background:rgba(0,0,0, 0.7); padding:2em; margin-top:97px; font-size:10pt;">
+            
 	<b>-- Droga --</b>
 	<br>
 	<br>
@@ -51,7 +51,7 @@ Oba elementy mogą być kombinacją wielu technik.
 	<br>
 	<br>
 	
-	 </table>
+	 </div>
     <!--
     <iframe src="photo.html?x2" width="320" height="640"></iframe>
     -->
