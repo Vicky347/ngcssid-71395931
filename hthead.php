@@ -31,7 +31,6 @@ background: linear-gradient(90deg, rgba(252,252,255,0.8037257396813595) 0%, rgba
 filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fcfcff",endColorstr="#070707",GradientType=1);
 	}
 	a {
-		font-size:1.7em;
 		color:white;
 		text-decoration:none;
 		font-family:'Inconsolata', cursive;
