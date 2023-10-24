@@ -8,7 +8,7 @@
    <script>
        $('#login').css('color', 'red');
    </script>
-    <div style="font-family: 'Inconsolata', cursive; font-size:10pt; background:rgba(0,0,0, 0.7); padding:2em; margin-top:97px;">
+    <div style="font-family: 'Inconsolata', cursive; font-size:11pt; background:rgba(0,0,0, 0.7); padding:2em; margin-top:97px;">
         <form method="post" action="login.php?dologin">
             <table>
                 <tr>
@@ -20,7 +20,8 @@
             </table>
         </form>
         <br>
-        <div>
+        
         Nie masz konta? 
         <a href="reg.php" target="_new">Zarejestruj się</a>
-        </div>
+        
+     </div>

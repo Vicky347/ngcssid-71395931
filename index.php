@@ -1,11 +1,11 @@
 <?php
     include("hthead.php");
 ?>
-<body style="color:#effedd; margin:0; padding:0; padding-top:5pt;">
+<body style="color:#effedd; margin:0; padding:0; padding-top:5pt; font-size:10pt;">
    <?php
    include("header.php");
    ?>
-        <div style="font-family: 'Inconsolata', cursive; font-size:10px; background:rgba(0,0,0, 0.7); padding:2em; margin-top:97px;">
+        <div style="font-family: 'Inconsolata', cursive; font-size:11pt; background:rgba(0,0,0, 0.7); padding:2em; margin-top:97px;">
 	<b>-- Droga --</b>
 	<br>
 	<br>
